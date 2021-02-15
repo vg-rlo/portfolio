@@ -9,8 +9,12 @@
 
 1.2 Wayskin (피부수분지수 측정 웨어러블기기 판매) : 고객 피부 수분지수 예측 및 주요 변수 설명 PJT (예측모델 베이스라인 수립 RMSE 16)  
 
+기업연계 프로젝트 PPT 다운로드 : https://drive.google.com/drive/folders/1Olxb2te94bJg_GXIdgOvZ5WpyhO3qDDe?usp=sharing
+
 [2. 데이터분석 Competition] 
 
 2.1 시스템 품질 변화로 인한 사용자 불편 예지 AI 경진대회 (상위 3%, 최종 9위) 
 
 2.2 Kaggle Predict Future Sales 대회 (상위 top 1%) 
+
+
