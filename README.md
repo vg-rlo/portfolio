@@ -15,6 +15,5 @@
 
 2.1 시스템 품질 변화로 인한 사용자 불편 예지 AI 경진대회 (상위 3%, 최종 9위) 
 
-2.2 Kaggle Predict Future Sales 대회 (상위 top 1%) 
 
 
