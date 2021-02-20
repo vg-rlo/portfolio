@@ -14,3 +14,8 @@
 
 5. Next Step: 해당 PJT 결과물을 해당 기업을 연구하는 카이스트 박사과정 연구원님께 이양해 드렸으며, 
 연구원님이 후속으로 프로젝트 고도화 및 on-site 테스트 진행을 업데이트 해나갈 예정입니다. 
+
+
+* 본 코드에는 Gurobi 라이센스가 필요합니다. 
+해당 라이센스는 Gurobi 웹사이트에서 무료(아카데믹 라이센스)로 다운로드 받을 수 있습니다. 
+https://www.gurobi.com/downloads/end-user-license-agreement-academic/
