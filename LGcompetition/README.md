@@ -4,6 +4,6 @@
 데이터는 아래 주소 사이트에서 다운로드 받을 수 있습니다. 
 (https://dacon.io/competitions/official/235687/overview/)
 
-비식별화 처리가 된 에러 로그 데이터(tabular data)로 사용자가 미래에 불만제기를 할지를 예측하는 모델링 대회입니다.   
+비식별화 처리가 된 에러 로그 데이터(tabular data)를 분석하여, 사용자가 향후 불만을 제기 할것인지를 예측하는 대회입니다.   
 
 #### 20210203 Private Leaderboard 최종 상위3%(9위), 팀명: vkeh 
